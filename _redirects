@@ -1,0 +1,7 @@
+/             /.netlify/functions/entry    200
+/formation    /.netlify/functions/entry    200
+/about        /.netlify/functions/entry    200
+/work/*       /.netlify/functions/entry    200
+/work         /.netlify/functions/entry    200
+/404          /.netlify/functions/entry    200
+/*            /.netlify/functions/entry    404
